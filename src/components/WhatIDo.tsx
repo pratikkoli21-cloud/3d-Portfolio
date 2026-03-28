@@ -87,20 +87,27 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>Testing</h3>
+              <h4>Quality Analyst</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+I’m a QA Engineer with 6+ years of experience testing digital banking and insurance platforms, with a strong focus on delivering smooth, defect-free user experiences.
+
+I’ve worked extensively on UPI systems, lending journeys, onboarding flows, and API validation, ensuring quality across both mobile and web applications. From designing test strategies to executing UAT and regression cycles, I enjoy solving real-world product challenges and improving release confidence.
+
+Currently, I’m expanding into automation using Playwright (TypeScript) to build scalable, modern testing solutions.
+
+What sets me apart is my blend of domain expertise (FinTech + Insurance) and a strong quality mindset that aligns closely with product goals.
+
+Always open to collaborating on impactful products and learning something new every day.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
+                <div className="what-tags"></div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -125,12 +132,10 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
             <div className="what-content-in">
               <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h4></h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5></h5>
               <div className="what-content-flex">
                 <div className="what-tags">Node.js</div>
                 <div className="what-tags">Python</div>
