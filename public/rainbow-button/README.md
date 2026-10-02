@@ -1,22 +1,21 @@
-# The Rainbow Button
+# The Rainbow Button (YouTube Shorts Video)
 
-A wholesome 15-second vertical YouTube Shorts animation for young children.
+Wholesome 15-second vertical **video** for young children.
 
-## Watch
+## Files
 
-- Interactive player: open [`/rainbow-button/`](./index.html) (or `/rainbow-button/?capture` for full-bleed capture mode)
-- Export file: [`the-rainbow-button-shorts.mp4`](./the-rainbow-button-shorts.mp4) — **9:16**, **15 seconds**, 1080×1920
+- **Video (primary):** [`the-rainbow-button-shorts.mp4`](./the-rainbow-button-shorts.mp4) — 1080×1920, 9:16, 15 seconds, with audio
+- **Player page:** [`index.html`](./index.html) — embeds and plays the MP4
+- Story stills used to assemble the video (`rb-*.jpg`)
 
-## Story beats
+## Story
 
 | Time | Moment |
 |------|--------|
-| 0–3s | Child notices a mysterious glowing red button and reaches toward it |
-| 3–6s | Button press transforms the room bright blue with sparkles |
-| 6–10s | Second press bursts into a magical rainbow with confetti and light beams |
-| 10–13s | Child celebrates with a joyful jump and spin |
-| 13–15s | Button close-up playfully says “Press me again!” — funny freeze-frame ending |
+| 0–3s | Child notices / presses glowing red button |
+| 3–6s | Room turns magical blue |
+| 6–10s | Rainbow burst with confetti |
+| 10–13s | Joyful jump and spin |
+| 13–15s | Button says “Press me again!” |
 
-## Visual style
-
-High-end 3D cartoon look, vivid colors, soft lighting, consistent child character, whimsical bedroom/playroom, family-friendly tone. No scary elements.
+Upload `the-rainbow-button-shorts.mp4` directly to YouTube Shorts.
