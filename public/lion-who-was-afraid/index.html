@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Lion Who Was Afraid — YouTube Shorts</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@700;800&family=Nunito:wght@700&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      min-height: 100%;
+      font-family: "Nunito", system-ui, sans-serif;
+      color: white;
+      background:
+        radial-gradient(ellipse at 20% 10%, rgba(255, 186, 73, 0.35), transparent 42%),
+        radial-gradient(ellipse at 80% 90%, rgba(90, 170, 255, 0.22), transparent 40%),
+        linear-gradient(165deg, #1d3a28, #102018 70%);
+    }
+    .page {
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 1.25rem;
+      gap: 1rem;
+    }
+    .frame {
+      width: min(100%, 420px);
+      aspect-ratio: 9 / 16;
+      border-radius: 24px;
+      overflow: hidden;
+      background: #111;
+      box-shadow:
+        0 0 0 3px rgba(255, 255, 255, 0.14),
+        0 28px 70px rgba(0, 0, 0, 0.4);
+    }
+    video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      background: #111;
+    }
+    .meta { width: min(100%, 420px); text-align: center; }
+    h1 {
+      font-family: "Baloo 2", cursive;
+      font-size: clamp(1.55rem, 5vw, 2.05rem);
+      line-height: 1.1;
+      margin-bottom: 0.35rem;
+      text-shadow: 0 3px 0 #c45a12;
+    }
+    p { opacity: 0.92; }
+    a { color: #ffe566; font-weight: 800; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <div class="frame">
+      <video
+        src="./the-lion-who-was-afraid.mp4"
+        controls
+        playsinline
+        autoplay
+        muted
+        loop
+        poster="./lion-01-walk.jpg"
+        aria-label="The Lion Who Was Afraid YouTube Shorts video"
+      ></video>
+    </div>
+    <div class="meta">
+      <h1>The Lion Who Was Afraid</h1>
+      <p>15s · 9:16 · 1080×1920 · <a href="./the-lion-who-was-afraid.mp4" download>Download MP4</a></p>
+    </div>
+  </main>
+</body>
+</html>
